@@ -5,7 +5,7 @@ theta_spacing = 0.07
 phi_spacing = 0.02
 illumination = np.fromiter(".,-~:;=!*#$@", dtype="<U1")
 
-A = 1
+A = 2
 B = 1
 R1 = 1
 R2 = 2
